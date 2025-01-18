@@ -1,0 +1,6 @@
+username - abcd
+password - abcd
+database - codofile_db
+
+link - mongodb+srv://abcd:abcd@cluster0.ig1np.mongodb.net/codofile_db?retryWrites=true&w=majority
+connection - mongodb+srv://abcd:abcd@cluster0.ig1np.mongodb.net/codofile_db?retryWrites=true&w=majority
